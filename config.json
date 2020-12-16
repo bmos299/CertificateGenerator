@@ -1,0 +1,19 @@
+{
+  "Servers" : [
+    {
+      "name":"Barryserver"
+    },
+    { 
+      "name":"markserver"
+    }
+  ],
+  "Clients" : [
+    {
+      "name":"barryclient"
+    },
+    {
+      "name":"markclient"
+    }
+  ],
+  "CertAuthority":"certauth"
+}
